@@ -1,5 +1,9 @@
 # 工数算出アプリ
 
+## URL
+
+https://operating-calc.vercel.app/
+
 ## 使い方
 
 1. Freee 工数管理より、該当月の CSV ファイルを以下の画像条件でエクスポートする
