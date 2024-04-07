@@ -1,3 +1,12 @@
+# 工数算出アプリ
+
+## 使い方
+
+1. Freee 工数管理より、該当月の CSV ファイルを以下の画像条件でエクスポートする
+1. エクスポートしたファイルをアップロードすることで、該当月のプロジェクトごとの工数が出力される
+
+![サンプル画像](./image/sample.png "サンプル")
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
